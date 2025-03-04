@@ -1,9 +1,9 @@
 3
 1,Popescu Ion,1046,II
 PAW,10,POO,8,Probabilitati,7
-2,Ionescu Diana,1047,2
-Programare Java,9,POO,5,Structuri de date,II
-3,Vasilescu Marcel,1047,II
+2,Ionescu Diana,1047,III
+Programare Java,9,POO,5,Structuri de date,7
+3,Vasilescu Marcel,1047,I
 Programare Java,10
 Structuri de date
 2

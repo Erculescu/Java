@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Main {
 
-    public void  citireStud(){
+    public static Student[]  citireStud(){
         Scanner scanner=new Scanner(System.in);
         int n=Integer.parseInt(scanner.nextLine());
         Student[] stud=new Student[n];
@@ -10,11 +10,12 @@ public class Main {
 
         {
             var linie = scanner.nextLine().split(",");
+
             var student = new Student(
                     Integer.parseInt(linie[0]),
                     linie[1],
-                    linie[2],
-                    anul.I);
+                    linie[2],anul.valueOf(linie[3])
+                    );
 
             stud[index] = student;
             linie = scanner.nextLine().split(",");
@@ -23,8 +24,9 @@ public class Main {
                 student.add_nota(new Nota(linie[j], Integer.parseInt(linie[j + 1])));
             }
         }
+return stud;
     };
-    public void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
@@ -40,7 +42,14 @@ nota.setNota(10);
 
 //        int n=Integer.parseInt(scanner.nextLine());
 //        System.out.println(n);
-        citireStud();
+        Student[] stud=new Student[0];
+        stud=citireStud();
+        for(var student:stud){
+            System.out.println(student);
+        }
+
 //tema de citit online ase+ cerinta citire catalog din online.ase.ro
+
+
     }
 }
