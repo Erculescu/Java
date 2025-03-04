@@ -1,7 +1,30 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
+
+    public void  citireStud(){
+        Scanner scanner=new Scanner(System.in);
+        int n=Integer.parseInt(scanner.nextLine());
+        Student[] stud=new Student[n];
+       for(var index=0;index<n;index++)
+
+        {
+            var linie = scanner.nextLine().split(",");
+            var student = new Student(
+                    Integer.parseInt(linie[0]),
+                    linie[1],
+                    linie[2],
+                    anul.I);
+
+            stud[index] = student;
+            linie = scanner.nextLine().split(",");
+
+            for (var j = 0; j < linie.length; j += 2) {
+                student.add_nota(new Nota(linie[j], Integer.parseInt(linie[j + 1])));
+            }
+        }
+    };
+    public void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
@@ -15,5 +38,9 @@ nota.setNota(10);
         ion.add_nota(new Nota("Java",8));
         System.out.println(ion);
 
+//        int n=Integer.parseInt(scanner.nextLine());
+//        System.out.println(n);
+        citireStud();
+//tema de citit online ase+ cerinta citire catalog din online.ase.ro
     }
 }
