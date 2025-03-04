@@ -26,7 +26,7 @@ public class Main {
             }
         }
 return stud;
-    };
+    }
 public static void afisareCatalog(Student[] stud, String denumireMaterie){
     System.out.println("Denumire materie: "+denumireMaterie);
     int[] note=new int[0];
