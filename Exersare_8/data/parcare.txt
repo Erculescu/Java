@@ -1,0 +1,10 @@
+B-01-POM,Porsche,5
+DB-01-POM,Remorca,0
+DB-02-POM,Audi,1
+DB-27-ANN,Audi,2
+DB-01-ALA,Volkswagen,2
+DB-21-RAR,Volkswagen,1
+DB-20-RAR,Ford,1
+DB-01-ASM,Bentley,4
+PH-21-YUS,BMW,2
+BC-24-DEL,Mazda,5
