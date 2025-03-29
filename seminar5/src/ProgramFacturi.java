@@ -1,11 +1,9 @@
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
+import java.io.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.Scanner;
 
 public class ProgramFacturi {
     static List<Factura> generareFacturi(LocalDate dataMin,int numarFacturi){
@@ -87,6 +85,35 @@ public class ProgramFacturi {
         }
         return facturi;
     }
+    static void salvareTXT(String caleFisier,List<Factura> facturi) throws Exception{
+        try(PrintWriter out=new PrintWriter(new FileWriter(caleFisier))){
+            for(var factura:facturi){
+                out.print(factura.getDenumireClient());
+                out.print(","+factura.getDataEmitere().getYear());
+                out.print(","+factura.getDataEmitere().getMonthValue());
+                out.println(","+factura.getDataEmitere().getDayOfMonth());
+            }
+        }catch(IOException e){
+            e.printStackTrace();
+        }
+    }
+    static List<Factura> citireTXT(String caleFisier)throws Exception{
+        var facturi=new ArrayList<Factura>();
+        try(Scanner in=new Scanner(new File(caleFisier))){
+            while(in.hasNextLine()){
+                String linie=in.nextLine();
+                String[] linieSplit=linie.split(",");
+                var denumire=linieSplit[0];
+                int an=Integer.parseInt(linieSplit[1]);
+                int luna=Integer.parseInt(linieSplit[2]);
+                int zi=Integer.parseInt(linieSplit[3]);
+                facturi.add(new Factura(LocalDate.of(an,luna,zi),denumire));
+            }
+        }
+        return facturi;
+    }
+
+
     public static void main(String[] args) throws Exception{
 
         var facturi=generareFacturi(LocalDate.of(2025,1,1),10);
@@ -94,7 +121,9 @@ public class ProgramFacturi {
         salvare("facturi.dat", facturi);
         facturi=citire("facturi.dat");
         afisare("dupa citire fisier",facturi);
-
+        salvareTXT("facturi.txt",facturi);
+        var facturi2=citireTXT("facturi2.txt");
+        afisare("Dupa citire din fisier .txt",facturi2);
 //    var factura = new Factura(LocalDate.of(2025, 03, 25), "Testescu SRL");
 //        factura.adaugaLinie("Mere", 1.4, 12);
 //        factura.adaugaLinie("Pere", 2.5, 22);
