@@ -1,0 +1,9 @@
+Ionescu,3
+Stanescu,2
+Dumitru,1
+Oncescu,2
+Stefanescu,4
+Albescu,2
+Dumitrescu,1
+Georgescu,4
+Lasconi,2

@@ -1,0 +1,8 @@
+Erculescu Rares,SDD,8
+Erculescu Rares,POO,9
+Erculescu Rares,PEAG,7
+Ionescu Ion,BTI,8
+Dragomirescu Dragomir,BPC,9
+Ionescu Ion,BCO,10
+Georgian Mihai,SDD,9
+Dragomirescu Andrei,SDD,5

@@ -1,0 +1,3 @@
+Nume personaj: Steve Arma: Arc Damage: 15
+Nume personaj: Mihai Arma: Poison Damage: 75
+Nume personaj: Rares Arma: Shotgun Damage: 110
