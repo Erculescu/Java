@@ -1,0 +1,5 @@
+Produsul: Chibrit Valoarea totala a stocului: 5000.0
+Produsul: Avion Valoarea totala a stocului: 1530.0
+Produsul: Masinuta Valoarea totala a stocului: 699.8000000000001
+Produsul: Ciocan Valoarea totala a stocului: 210.0
+Produsul: Telecomanda Valoarea totala a stocului: 60.0

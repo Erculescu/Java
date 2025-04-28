@@ -1,0 +1,7 @@
+Denumire: Pompa M73
+  Nu exista pe stoc piese compatibile cu produsul Pompa M73
+Denumire: Pompa M35 Piese compatibile:
+  Chiulasa cantitate: 30 pret per buc: 125.0 valoare stoc: 3750.0
+  Supapa cantitate: 50 pret per buc: 94.99 valoare stoc: 4749.5
+Denumire: Motor Loncin 7 CP Piese compatibile:
+  Carburator cantitate: 40 pret per buc: 150.0 valoare stoc: 6000.0
