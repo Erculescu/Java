@@ -1,0 +1,4 @@
+Materia: Biologie Nr note inregistrate: 1
+Materia: Chimie Nr note inregistrate: 1
+Materia: Informatica Nr note inregistrate: 1
+Materia: Matematica Nr note inregistrate: 2

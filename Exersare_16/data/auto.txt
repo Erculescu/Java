@@ -1,0 +1,10 @@
+Auto Srl
+1,Mercedes,GT63,510
+2,Audi,S3,300
+3,Dacia,Logan,100
+4,Bentley,Bentayga,580
+5,Ford,Focus,155
+6,Volvo,XC90,380
+7,Audi,RS7 Keyvany,980
+8,Porsche,911 997 GT2,620
+9,Volvo,S90,400

@@ -1,0 +1,6 @@
+B-01-POM,Audi,3
+DB-21_RAR,Volkswagen,2
+DB-01-RAR,Smart,2
+DB-05-JTI,Fiat,4
+BH-01-ATH,Mercedes,3
+PH-02-GBR,Porsche,4

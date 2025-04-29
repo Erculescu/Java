@@ -1,0 +1,4 @@
+Judet: B Valoare: 3.0
+Judet: BH Valoare: 3.0
+Judet: PH Valoare: 2.5
+Judet: DB Valoare: 7.5

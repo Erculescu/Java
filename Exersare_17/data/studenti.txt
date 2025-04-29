@@ -1,0 +1,5 @@
+Rares Mihai,Matematica,7
+Rares Mihai,Informatica,9
+Ionut Andrei,Biologie,10
+Georgescu Andrei,Chimie,9
+Ionut Andrei,Matematica,6

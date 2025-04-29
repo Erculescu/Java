@@ -1,0 +1,10 @@
+Vehicule de lux:
+Brand: Audi Selectia de modele: S3,RS7 Keyvany
+Brand: Porsche Selectia de modele: 911 997 GT2
+Brand: Mercedes Selectia de modele: GT63
+Brand: Bentley Selectia de modele: Bentayga
+
+Celelalte vehicule: 
+Brand: Volvo Selectia de modele: XC90,S90
+Brand: Dacia Selectia de modele: Logan
+Brand: Ford Selectia de modele: Focus
