@@ -1,0 +1,3 @@
+Mirel la disciplina PAW are urmatoarele examene: Sala 2102 Ora 0 Materia PAW	
+Gigel la disciplina JAVA are urmatoarele examene: Sala 2101 Ora 0 Materia JAVA	
+Geta la disciplina SDD are urmatoarele examene: Sala 2103 Ora 0 Materia SDD	

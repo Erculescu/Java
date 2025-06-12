@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mainServer>
+    <ListaSali>
+        <Sala>
+            <capacitate>90</capacitate>
+            <codSala>2101</codSala>
+            <listaExamene>
+                <ora>0</ora>
+                <disciplina>JAVA</disciplina>
+                <nrStudenti>20</nrStudenti>
+                <titular>Gigel</titular>
+            </listaExamene>
+        </Sala>
+        <Sala>
+            <capacitate>80</capacitate>
+            <codSala>2102</codSala>
+            <listaExamene>
+                <ora>0</ora>
+                <disciplina>PAW</disciplina>
+                <nrStudenti>30</nrStudenti>
+                <titular>Mirel</titular>
+            </listaExamene>
+        </Sala>
+        <Sala>
+            <capacitate>100</capacitate>
+            <codSala>2103</codSala>
+            <listaExamene>
+                <ora>0</ora>
+                <disciplina>SDD</disciplina>
+                <nrStudenti>15</nrStudenti>
+                <titular>Geta</titular>
+            </listaExamene>
+        </Sala>
+    </ListaSali>
+</mainServer>
