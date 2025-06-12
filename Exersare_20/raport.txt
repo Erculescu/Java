@@ -1,0 +1,4 @@
+BV-123-PIZ 2014 [Revizie{firma='Bobita SRL', kilometraj=250, taxa=500.0, data=2017-10-13, revenire=false}]
+IF-40-SEX 2012 [Revizie{firma='Giani SRL', kilometraj=400, taxa=800.0, data=2016-05-04, revenire=true}]
+B-03-MUE 2010 [Revizie{firma='Brebenel SRL', kilometraj=300, taxa=600.0, data=2018-06-23, revenire=true}]
+TM-666-PUL 2007 [Revizie{firma='Gigi SRL', kilometraj=100, taxa=200.0, data=2019-01-10, revenire=true}]

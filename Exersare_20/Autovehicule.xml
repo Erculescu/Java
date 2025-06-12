@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mainServer>
+    <ListaAutovehicule>
+        <Autovehicul>
+            <an>2010</an>
+            <numarInmatriculare>B-03-MUE</numarInmatriculare>
+            <revizii>
+                <firma>Brebenel SRL</firma>
+                <km>300</km>
+                <taxa>600.0</taxa>
+                <datal>2018-06-23T00:00:00+03:00</datal>
+                <revenire>true</revenire>
+            </revizii>
+            <tipAutovehicul>AUTOTURISM_BENZINA</tipAutovehicul>
+        </Autovehicul>
+        <Autovehicul>
+            <an>2012</an>
+            <numarInmatriculare>IF-40-SEX</numarInmatriculare>
+            <revizii>
+                <firma>Giani SRL</firma>
+                <km>400</km>
+                <taxa>800.0</taxa>
+                <datal>2016-05-04T00:00:00+03:00</datal>
+                <revenire>true</revenire>
+            </revizii>
+            <tipAutovehicul>AUTOTURISM_DIESEL</tipAutovehicul>
+        </Autovehicul>
+        <Autovehicul>
+            <an>2014</an>
+            <numarInmatriculare>BV-123-PIZ</numarInmatriculare>
+            <revizii>
+                <firma>Bobita SRL</firma>
+                <km>250</km>
+                <taxa>500.0</taxa>
+                <datal>2017-10-13T00:00:00+03:00</datal>
+                <revenire>false</revenire>
+            </revizii>
+            <tipAutovehicul>SUV</tipAutovehicul>
+        </Autovehicul>
+        <Autovehicul>
+            <an>2007</an>
+            <numarInmatriculare>TM-666-PUL</numarInmatriculare>
+            <revizii>
+                <firma>Gigi SRL</firma>
+                <km>100</km>
+                <taxa>200.0</taxa>
+                <datal>2019-01-10T00:00:00+02:00</datal>
+                <revenire>true</revenire>
+            </revizii>
+            <tipAutovehicul>UTILITARA</tipAutovehicul>
+        </Autovehicul>
+    </ListaAutovehicule>
+</mainServer>
