@@ -1,0 +1,32 @@
+[
+ {
+   "adresa":"Belsugului 23",
+   "locatari":300,
+   "Utilitati":"Apa,Gaz,Curent"
+ },
+ {
+   "adresa":"Bacriului 12",
+   "locatari":193,
+   "Utilitati":"Apa,Gaz"
+ },
+  {
+   "adresa":"Fabrica de Glucoza 88",
+   "locatari":500,
+   "Utilitati":"Gaz,Curent"
+ },
+  {
+   "adresa":"Splaiul Independentei 445",
+   "locatari":100,
+   "Utilitati":"Gaz"
+ },
+  {
+   "adresa":"Soseaua Kiseleff 112",
+   "locatari":24,
+   "Utilitati":"Curent"
+ },
+  {
+   "adresa":"Strada Turda 121",
+   "locatari":44,
+   "Utilitati":"Apa,Curent"
+ }
+]
