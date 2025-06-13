@@ -1,0 +1,19 @@
+Id camera 3 Nume camera Leica M6 pret per servisare 1872.1 log operatiuni: 
+	Operatiuni{cantitate=4, status='In curs'}
+	Operatiuni{cantitate=2, status='Reparat'}
+	
+Id camera 2 Nume camera Nikon F3 pret per servisare 382.3 log operatiuni: 
+	Operatiuni{cantitate=1, status='In curs'}
+	
+Id camera 4 Nume camera Minolta Dynax 500si pret per servisare 280.12 log operatiuni: 
+	Operatiuni{cantitate=2, status='In curs'}
+	
+Id camera 5 Nume camera Chajka 3 pret per servisare 170.1 log operatiuni: 
+	Operatiuni{cantitate=1, status='In curs'}
+	
+Id camera 1 Nume camera Canon AE1 pret per servisare 450.0 log operatiuni: 
+	Operatiuni{cantitate=3, status='In curs'}
+	Operatiuni{cantitate=3, status='Reparat'}
+	
+Id camera 6 Nume camera Praktica LT1 pret per servisare 240.28 log operatiuni: 
+	

@@ -1,0 +1,37 @@
+[
+  {
+    "Model Camera":"Canon AE1",
+    "Cantitate":3,
+    "Status":"In curs"
+  },
+  {
+    "Model Camera":"Nikon F3",
+    "Cantitate":1,
+    "Status":"In curs"
+  },
+  {
+    "Model Camera":"Leica M6",
+    "Cantitate":4,
+    "Status":"In curs"
+  },
+  {
+    "Model Camera":"Chajka 3",
+    "Cantitate":1,
+    "Status":"In curs"
+  },
+  {
+    "Model Camera":"Minolta Dynax 500si",
+    "Cantitate":2,
+    "Status":"In curs"
+  },
+  {
+    "Model Camera":"Leica M6",
+    "Cantitate":2,
+    "Status":"Reparat"
+  },
+  {
+    "Model Camera":"Canon AE1",
+    "Cantitate":3,
+    "Status":"Reparat"
+  }
+]
