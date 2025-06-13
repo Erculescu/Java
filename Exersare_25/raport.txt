@@ -1,0 +1,15 @@
+Cod sectie: 1 Nume Sectie: Sectia1 Capacitate Sectie: 200 Pacientii din sectie:
+	1111111 Vasile Pneumonie CRITIC
+
+Cod sectie: 2 Nume Sectie: Sectia2 Capacitate Sectie: 300 Pacientii din sectie:
+	2222222 Ion Raceala NONURGENT
+
+Cod sectie: 3 Nume Sectie: Sectia3 Capacitate Sectie: 180 Pacientii din sectie:
+	3333333 Gigel Stop Cardiac RESUSCITARE
+
+Cod sectie: 4 Nume Sectie: Sectia4 Capacitate Sectie: 270 Pacientii din sectie:
+	4444444 Giani Diaree URGENT
+
+Cod sectie: 5 Nume Sectie: Sectia5 Capacitate Sectie: 100 Pacientii din sectie:
+	5555555 Bobita Alergie CONSULT
+
