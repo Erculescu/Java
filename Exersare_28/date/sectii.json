@@ -1,0 +1,27 @@
+[
+ {
+   "codSectie":1,
+   "denumire":"Cardiologie",
+   "nrLocuri":10
+ },
+ {
+   "codSectie":2,
+   "denumire":"Urologie",
+   "nrLocuri":22
+ },
+  {
+   "codSectie":3,
+   "denumire":"Oftalmologie",
+   "nrLocuri":26
+ },
+  {
+   "codSectie":4,
+   "denumire":"ATI",
+   "nrLocuri":30
+ },
+  {
+   "codSectie":5,
+   "denumire":"Ortopedie",
+   "nrLocuri":14
+ }
+]

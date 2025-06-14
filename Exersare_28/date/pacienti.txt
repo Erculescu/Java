@@ -1,0 +1,6 @@
+1111111,Ion Ionescu,44,1,
+2222222,George Georgescu,62,3,
+3333333,Nichita Stanescu,77,4,
+4444444,Mihai Mihailescu,33,2,
+5555555,Sergiu Nicolaesu,82,5,
+6666666,Radu Radulescu,67,2,

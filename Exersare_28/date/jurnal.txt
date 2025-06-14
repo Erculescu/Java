@@ -1,0 +1,5 @@
+1 Cardiologie 1
+2 Urologie 2
+3 Oftalmologie 1
+4 ATI 1
+5 Ortopedie 1

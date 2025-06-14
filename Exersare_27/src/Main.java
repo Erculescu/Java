@@ -128,7 +128,8 @@ public class Main {
                     ){
                 var cod=in.readLine();
                 System.out.println("SERVER: AM PRIMIT "+cod);
-                out.println(filme.get(Integer.parseInt(cod)).toString());
+                out.println(filme.get(Integer.parseInt(cod)
+                ).toString());
             }catch (Exception e){e.printStackTrace();}
         }
         ).start();
