@@ -1,0 +1,3 @@
+Film{codProdus=1, Denumire='Kodak Gold 200', pret=65.0, stoc=4, valoareStoc=260.0, tranzactii=[Tranzactii{codProdus=1, cantitate=10, tip='cumparare'}, Tranzactii{codProdus=1, cantitate=2, tip='vanzare'}, Tranzactii{codProdus=1, cantitate=4, tip='vanzare'}]}
+Film{codProdus=3, Denumire='Kentmere 400', pret=35.0, stoc=9, valoareStoc=315.0, tranzactii=[Tranzactii{codProdus=3, cantitate=20, tip='cumparare'}, Tranzactii{codProdus=3, cantitate=5, tip='vanzare'}, Tranzactii{codProdus=3, cantitate=6, tip='vanzare'}]}
+Film{codProdus=2, Denumire='Fujifilm 200', pret=60.0, stoc=11, valoareStoc=660.0, tranzactii=[Tranzactii{codProdus=2, cantitate=15, tip='cumparare'}, Tranzactii{codProdus=2, cantitate=4, tip='vanzare'}]}

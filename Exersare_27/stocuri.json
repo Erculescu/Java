@@ -1,0 +1,42 @@
+[
+ {
+   "codProdus":1,
+   "cantitate":10,
+   "operatiune":"cumparare"
+ },
+ {
+   "codProdus":2,
+   "cantitate":15,
+   "operatiune":"cumparare"
+ },
+  {
+   "codProdus":3,
+   "cantitate":20,
+   "operatiune":"cumparare"
+ },
+  {
+"codProdus":1,
+   "cantitate":2,
+   "operatiune":"vanzare"
+ },
+  {
+   "codProdus":2,
+   "cantitate":4,
+   "operatiune":"vanzare"
+ },
+  {
+   "codProdus":3,
+   "cantitate":5,
+   "operatiune":"vanzare"
+ },
+  {
+   "codProdus":1,
+   "cantitate":4,
+   "operatiune":"vanzare"
+  },
+  {
+   "codProdus":3,
+   "cantitate":6,
+   "operatiune":"vanzare"
+  }
+]
