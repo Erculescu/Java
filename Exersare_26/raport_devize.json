@@ -1,0 +1,32 @@
+[
+ {
+   "vin":"WAUZZ123",
+   "pret":1600,
+   "operatiuni":"Schimb Ulei si Filtre"
+ },
+ {
+   "vin":"WPZZZ95B",
+   "pret":9800,
+   "operatiuni":"Schimb Discuri si Placute"
+ },
+  {
+   "vin":"WBAWW320",
+   "pret":2700,
+   "operatiuni":"Schimb Ulei si Filtre"
+ },
+  {
+   "vin":"WAUZZ123",
+   "pret":2000,
+   "operatiuni":"Schimb Brate Inferioare"
+ },
+  {
+   "vin":"WAUPZZ22",
+   "pret":3200,
+   "operatiuni":"Schimb Far Fata Dreapta"
+ },
+  {
+   "vin":"WVWBEE12",
+   "pret":1852,
+   "operatiuni":"Schimb Baie Ulei"
+ }
+]

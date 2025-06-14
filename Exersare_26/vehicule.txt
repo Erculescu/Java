@@ -1,0 +1,7 @@
+1,WAUZZ123,Rares Erculescu,Audi,A3,
+2,WPZZZ95B,SC PMP SRL,Porsche,GTS,
+3,WBAWW320,Carmen Elena,BMW,320,
+4,WAUPZZ22,Andrei Popescu,Audi,RS3,
+5,WVWBEE12,SC PMP SRL,VW,BEETLE,
+6,WASZZ321,Gerogian Gigi,Audi,S5,
+7,WJMZ3008,Delia Elena,Mazda,3,
