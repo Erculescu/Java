@@ -1,0 +1,27 @@
+[
+ {
+   "nrApartament":10,
+   "suprafata":85,
+   "nrPersoane":3
+ },
+ {
+   "nrApartament":23,
+   "suprafata":59,
+   "nrPersoane":2
+ },
+  {
+   "nrApartament":304,
+   "suprafata":122,
+   "nrPersoane":1
+ },
+  {
+   "nrApartament":6,
+   "suprafata":35,
+   "nrPersoane":1
+ },
+  {
+   "nrApartament":68,
+   "suprafata":73,
+   "nrPersoane":2
+ }
+]
