@@ -1,0 +1,61 @@
+[
+ {
+  "codCandidat":1,
+   "numeCandidat":"Rares Mihai",
+   "media":9.12,
+   "optiuni":[
+     {"codLiceu":1,
+     "codSpecializare":1},
+     {"codLiceu":1,
+     "codSpecializare":2},
+     {"codLiceu":1,
+     "codSpecializare":3},
+     {"codLiceu":1,
+     "codSpecializare":4}
+   ]
+ },
+  {"codCandidat":2,
+   "numeCandidat":"Ion Ionescu",
+   "media":8.12,
+   "optiuni":[
+     {"codLiceu":2,
+     "codSpecializare":1},
+     {"codLiceu":3,
+     "codSpecializare":2},
+     {"codLiceu":3,
+     "codSpecializare":3},
+     {"codLiceu":4,
+     "codSpecializare":4}
+   ]
+ },
+  {"codCandidat":3,
+   "numeCandidat":"George Georgescu",
+   "media":9.62,
+   "optiuni":[
+     {"codLiceu":1,
+     "codSpecializare":3},
+     {"codLiceu":2,
+     "codSpecializare":4},
+     {"codLiceu":1,
+     "codSpecializare":3},
+     {"codLiceu":2,
+     "codSpecializare":4}
+   ]
+ },
+  {"codCandidat":4,
+   "numeCandidat":"Titi Titescu",
+   "media":7.12,
+   "optiuni":[
+     {"codLiceu":3,
+     "codSpecializare":1},
+     {"codLiceu":2,
+     "codSpecializare":1},
+     {"codLiceu":2,
+     "codSpecializare":3},
+     {"codLiceu":3,
+     "codSpecializare":4}
+   ]
+ }
+  
+ 
+]

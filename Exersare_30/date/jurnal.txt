@@ -1,0 +1,4 @@
+3 George Georgescu 4 9.62
+1 Rares Mihai 4 9.12
+2 Ion Ionescu 4 8.12
+4 Titi Titescu 4 7.12
