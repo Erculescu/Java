@@ -1,0 +1,39 @@
+[
+ {
+  "codLoc":1,
+   "nrInmatriculare":"DB02POM",
+   "durata":30
+ },
+  {
+    "codLoc":2,
+   "nrInmatriculare":"B01POM",
+   "durata":360
+ },
+  {
+    "codLoc":1,
+   "nrInmatriculare":"DB03POM",
+   "durata":120
+    
+ },
+  {
+    "codLoc":3,
+   "nrInmatriculare":"CT25LET",
+   "durata":30
+    
+ },
+  {
+  "codLoc":4,
+   "nrInmatriculare":"DJ06STF",
+   "durata":60  
+ },
+  {
+    "codLoc":2,
+   "nrInmatriculare":"AR15PIM",
+   "durata":25
+  },
+ {
+  "codLoc":1,
+  "nrInmatriculare":"DB01POM",
+  "durata":600
+ }
+]
