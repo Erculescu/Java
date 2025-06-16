@@ -1,0 +1,22 @@
+[
+    {
+        "ValoareTranzactionata": 50,
+        "Simbol": "Apple"
+    },
+    {
+        "ValoareTranzactionata": 4275,
+        "Simbol": "ING"
+    },
+    {
+        "ValoareTranzactionata": -4667,
+        "Simbol": "Raiffeisen"
+    },
+    {
+        "ValoareTranzactionata": -5002,
+        "Simbol": "BRD"
+    },
+    {
+        "ValoareTranzactionata": -2058,
+        "Simbol": "Microsoft"
+    }
+]

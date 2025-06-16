@@ -1,0 +1,32 @@
+[
+    {
+        "denumire": "Informatica Economica",
+        "inscrieri": 4,
+        "medie": 8.5275,
+        "cod": 1
+    },
+    {
+        "denumire": "Cibernetica",
+        "inscrieri": 2,
+        "medie": 10,
+        "cod": 2
+    },
+    {
+        "denumire": "Statistica",
+        "inscrieri": 1,
+        "medie": 9.9,
+        "cod": 3
+    },
+    {
+        "denumire": "Marketing",
+        "inscrieri": 1,
+        "medie": 8.47,
+        "cod": 4
+    },
+    {
+        "denumire": "Contabilitate",
+        "inscrieri": 2,
+        "medie": 8.315,
+        "cod": 5
+    }
+]
