@@ -1,0 +1,2 @@
+Nume student      Nota obtinuta
+Rares Erculescu     10.0

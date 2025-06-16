@@ -1,0 +1,3 @@
+3, In ce an a avut loc Revolutia Franceza?,1789, 10
+5, In ce an a fost semnata Declaratia de Independenta a SUA?,1776, 10
+6, Cine a fost liderul Revolutiei Ruse din 1917?,Vladimir Lenin, 10
